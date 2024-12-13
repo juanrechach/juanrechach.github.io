@@ -52568,11 +52568,14 @@ WT(){this.ak(new A.YT(this))},
 WU(){this.ak(new A.YU(this))},
 Yp(){this.ak(new A.YW(this))},
 Yq(){this.ak(new A.YX(this))},
-V(a){var s,r=null,q=A.cz(a,r,t.w).w.a.a/10,p=[new A.df(new A.d1(4,4),q,B.u7,r),new A.df(new A.d1(3,7),q,B.h9,r),new A.df(new A.d1(0,5),q,B.ha,r),new A.df(new A.d1(9,8),q,B.hb,r),new A.df(new A.d1(1,3),q,B.u6,r),new A.df(new A.d1(6,2),q,B.u5,r),new A.df(new A.d1(4,0),q,B.h8,r),new A.df(new A.d1(7,9),q,B.h8,r),new A.df(new A.d1(2,6),q,B.h9,r),new A.df(new A.d1(5,1),q,B.ha,r),new A.df(new A.d1(8,4),q,B.hb,r)],o=A.b([B.u8],t.eE)
-for(s=0;s<11;++s)o.push(p[s])
-o.push(new A.r3(this.d,this.e,q,r))
-o.push(new A.wW(10*q+20,q,this.gY9(),r))
-return new A.r7(A.Vr(B.dO,o,B.fD),r)}}
+V(a){var s,r,q,p=null,o=A.cz(a,p,t.w).w.a.a/10
+if(o>80)o=80
+s=[new A.df(new A.d1(4,4),o,B.u7,p),new A.df(new A.d1(3,7),o,B.h9,p),new A.df(new A.d1(0,5),o,B.ha,p),new A.df(new A.d1(9,8),o,B.hb,p),new A.df(new A.d1(1,3),o,B.u6,p),new A.df(new A.d1(6,2),o,B.u5,p),new A.df(new A.d1(4,0),o,B.h8,p),new A.df(new A.d1(7,9),o,B.h8,p),new A.df(new A.d1(2,6),o,B.h9,p),new A.df(new A.d1(5,1),o,B.ha,p),new A.df(new A.d1(8,4),o,B.hb,p)]
+r=A.b([B.u8],t.eE)
+for(q=0;q<11;++q)r.push(s[q])
+r.push(new A.r3(this.d,this.e,o,p))
+r.push(new A.wW(10*o+20,o,this.gY9(),p))
+return new A.r7(A.Vr(B.dO,r,B.fD),p)}}
 A.YV.prototype={
 $0(){var s=this.a
 s.d=new A.d1(4,4)
