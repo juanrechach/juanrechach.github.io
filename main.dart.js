@@ -44455,10 +44455,10 @@ A.nQ.prototype={
 ae(){return new A.AC()}}
 A.AC.prototype={
 W(a){var s,r,q,p,o,n=null,m=A.a([],t.eE)
-for(s=0;s<10;++s)for(r=s*80,q=0;q<10;++q)m.push(new A.jm(r,q*80,n,n,n,n,A.a07("square.png",80,80),n))
+for(s=0;s<10;++s)for(r=s*80,q=0;q<10;++q)m.push(new A.jm(r,q*80,n,n,n,n,A.a07("assets/square.png",80,80),n))
 for(s=0;s<8;++s){r=A.cm(0,280)
 p=this.d
-o=A.a07("robotnude.png",80,80)
+o=A.a07("assets/robotnude.png",80,80)
 m.push(new A.mk(new A.pX(A.ab5(1.5707963267948966),B.bZ,!0,n,o,n),p*80,s*80,B.a5,r,n,n))}return new A.pe(A.a02(n,A.Qz(B.db,m,B.eO),B.ci,!1,n,n,n,n,n,n,n,n,n,n,n,n,new A.TA(this),n,n,n),n)}}
 A.TA.prototype={
 $0(){var s=this.a
