@@ -1,82 +1,733 @@
 [
-  {"auth" : "tueur2003", "mapn" : "coureur", "used" : "5770", "typ" : "ra", "date" : "01/02/2004", "size" : "6 x 6", "mdata" : "0606353900h21xxE0E0L1h2E0MC64E0M3E0C5C34E0C2C43E0M4E0C1M2E0E0L1bE0"},
-  {"auth" : "airwalk", "mapn" : "blitz", "used" : "3890", "typ" : "dm", "date" : "25/12/2003", "size" : "7 x 9", "mdata" : "0709073900h05xxNL2gWhNWhNWhWdHE4HNL2gWhNWhNWhWdNL2bWgE5GgD2dD1dD2bGdE5NL2bWdHD2dD1dD3hE1D3dD1dD2bHE2D1hE3NC1NE3D1bE2HD2hD1gD3gE1D3bD1gD2gHNWgWhE5GdD2hD1gD2gGgE5NL2hWdNL2gL2bNWbNWdWbHE4HNL2gWbNWbNWdWb"},
-  {"auth" : "robocop6", "mapn" : "longstreet", "used" : "1572", "typ" : "ra", "date" : "05/05/2004", "size" : "5 x 13", "mdata" : "0513223900h08xx2E0NPhWd10H2E0NPgNPh9HE0C1H9NC22E0NPgNPb9H2E0NPbWd10H"},
-  {"auth" : "babacoul", "mapn" : "pticoureur", "used" : "908", "typ" : "ra", "date" : "05/05/2004", "size" : "6 x 6", "mdata" : "0606143900h24xx7HC13Gg2HGgC2C6Gg2HGgC5C3Gg2H3GgC47H"},
-  {"auth" : "bucheron", "mapn" : "x_trem", "used" : "657", "typ" : "ra", "date" : "31/03/2004", "size" : "5 x 7", "mdata" : "0507223900h08xxC2D1dD2bHD2dD1dC3D2hD3gD3dD1dD3hD3bD2gE0WgD1h3E0D1bE0WdD2dD3hD3bC5D3gD3dD2bC1D1gD2gHD2hD1gC4"},
-  {"auth" : "bebepirate", "mapn" : "rapidos", "used" : "581", "typ" : "dm", "date" : "07/12/2003", "size" : "6 x 6", "mdata" : "0606223900h08xxM4H2ME12E2E12ME3C12E32M2E5E4E52ME12E2E12M4HM"},
-  {"auth" : "robokill12", "mapn" : "zorb", "used" : "575", "typ" : "ra", "date" : "05/05/2004", "size" : "5 x 6", "mdata" : "0506113900h10xxB1bL3dL3bWgWh4B1gWhB1gL3bL3gWdWhB1bWg2E0C5C6B1hWdB1bWg2E0C4E0B1hWdB1bWgC1C2C3E0B1hWdB1dL3dL3hWgWb4B1dWbB1hL3gL3hWdWb"},
-  {"auth" : "tueur2003", "mapn" : "rapide", "used" : "549", "typ" : "ra", "date" : "01/02/2004", "size" : "6 x 6", "mdata" : "0606223900h08xxC14NE5NPhNPd3NE5NPdNC4NC5E52NC3Wh2NMC2Wh2N2M6NC6"},
-  {"auth" : "trumble", "mapn" : "in connu", "used" : "500", "typ" : "dm", "date" : "05/05/2004", "size" : "5 x 6", "mdata" : "0506113900h12xxB1h4E5B1bB1h4E5B1bB1hE5E4PgWhWb2E5B1bB1h4E5B1bB1h3E5C1B1b"},
-  {"auth" : "111dmx111", "mapn" : "boom", "used" : "483", "typ" : "dm", "date" : "05/05/2004", "size" : "7 x 7", "mdata" : "0707183900h14xxE5NWhE5NWhE5NWhE5NL3gHNHNHNWdE5NE5NE5NE5NL3gHNHNHNWdE5NE5NC1NE5NL3gHNHNHNWdE5NL3bE5NL3bE5NL3bE5"},
-  {"auth" : "cutkiller", "mapn" : "flower", "used" : "478", "typ" : "dm", "date" : "04/03/2004", "size" : "7 x 7", "mdata" : "0707053900h29xxNNL1dWhD3bD1gD3gNL1gWhNNL1bWgE0D1bE0D1hE0NL1bWdD2dD1dD3dD1dD2dD1dD2bD1hE0D1bC1D1hE0D1bD2hD1gD2gD1gD3gD1gD2gNL1hWgE0D1bE0D1hE0NL1hWdNNL1dWbD3dD1dD3hNL1gWbN"},
-  {"auth" : "goret", "mapn" : "plouf", "used" : "427", "typ" : "dm", "date" : "10/01/2005", "size" : "7 x 7", "mdata" : "0707063900h25xxD2d5D1dD2bD1hE1E2E3E4E5D1bD1hD3b3D1gD3gD1bHD1bHWdC1L3dHD1hHD1hD3d3D1dD3hD1bD1hE1E2E3E4E5D1bD2h5D1gD2g"},
-  {"auth" : "lusitanos", "mapn" : "speed way", "used" : "411", "typ" : "dm", "date" : "04/03/2004", "size" : "6 x 6", "mdata" : "0606153900h21xxH4E0HE0B2d2B1dB2b2E0B1hC1E0B1b2E0B1h2E0B1b2E0B2h2B1gB2gE0H4E0H"},
-  {"auth" : "robo_will", "mapn" : "rapidos 2", "used" : "395", "typ" : "dm", "date" : "01/02/2004", "size" : "6 x 6", "mdata" : "0606093900h27xxM4HMH4E02HE0C12E02H4E02H4E0HM4HM"},
-  {"auth" : "beaudry", "mapn" : "detourmort", "used" : "373", "typ" : "dm", "date" : "05/05/2004", "size" : "6 x 6", "mdata" : "0606313900h07xxM4H2MD2d2D1dD2b2MD1hE4E1D1b2MD1hE1C1D1b2MD2h2D1gH2M4HM"},
-  {"auth" : "odie", "mapn" : "try me", "used" : "350", "typ" : "ra", "date" : "05/05/2004", "size" : "6 x 6", "mdata" : "0606333900h20xxC19E5C52E5C67E5C32E5C27E5C43E5"},
-  {"auth" : "robokill12", "mapn" : "Pbilips", "used" : "344", "typ" : "dm", "date" : "05/05/2004", "size" : "5 x 6", "mdata" : "0506233900h04xxHL3dL3bWhWg4B1gWhHL3gL3bWhWdB1bWg4E0B1hWdB1bWg4E0B1hWdB1bWgC13E0B1hWdHL3dL3hWgWb4B1dWbHL3gL3hWdWb"},
-  {"auth" : "___m16___", "mapn" : "jaymap", "used" : "335", "typ" : "dm", "date" : "07/12/2003", "size" : "7 x 9", "mdata" : "0709073900h05xx2M5HWh3ME3L1bD3bD1gL2hD1gD1gL2hD3gE3L1bME4WgMD1bL3dE2WhE5E1WhD1hL3dWgME4WdE4WgNL2bD1bE5C1E5D1hNL2bE4WdE4WgMD1bL3dE1E5E2D1hL3dWgME4WdME3L1hD3dD1dL2bWhD1dD1dL2bWhD3hE3L1h3M5HWb2M"},
-  {"auth" : "babacoul", "mapn" : "map baba 1", "used" : "317", "typ" : "dm", "date" : "31/03/2004", "size" : "9 x 9", "mdata" : "0909343900h03xx10ME02NE02NE02MNE0NE0NE0N2M2N3E02N2M3E0M3E02M2N3E02N2MNE0NC1NE0N2ME02NE02NE010M"},
-  {"auth" : "andybot2", "mapn" : "chaosrace", "used" : "310", "typ" : "ra", "date" : "01/02/2004", "size" : "9 x 13", "mdata" : "0913283900h06xxD3bD1gD2dE03N3D1dND1bMD1bL3dMD1hN3HE0HC3HD1bMD1hMD1hNL3dD2d3D1dHD1bE0D1bMD1hMD1hC5WbD1hE0Wd2E0HD1bHL2bD3dD1dC2MD1hHL3dC1WbHWbHL2bD1bE0D1bE0MNL3gE5HD1h3ND1dD5dD1dHNMNL2gE2MD1hMD1hHE0HE0HL1hD3b2D1gE3WgMD1hL3dMD2hWdD1gWbD1g2D1gWbND1bME0E1WbE4WbD2hWb3D1gWb3D1gND1bHC4"},
-  {"auth" : "robostrike", "mapn" : "close comb", "used" : "303", "typ" : "dm", "date" : "01/01/2003", "size" : "7 x 9", "mdata" : "0709293900h19xx10M3NE03N2MNHE0NE0HN2MNE0NC1NE0N2MNHE0NE0HN2M3NE03N10M"},
-  {"auth" : "airwalk", "mapn" : "scrimmage", "used" : "278", "typ" : "ra", "date" : "01/02/2004", "size" : "7 x 9", "mdata" : "0709073900h05xxNL2gWhNWhNWhWdHE4HNL2gWhNWhNWhWdNL2bWgC5GgD2dD1dD2bGdC2NL2bWdHD2dD1dD3hE1D3dD1dD2bHE2D1hE3NC1NE3D1bE2HD2hD1gD3gE1D3bD1gD2gHNWgWhC4GdD2hD1gD2gGgC3NL2hWdNL2gL2bNWbNWdWbHE4HNL2gWbNWbNWdWb"},
-  {"auth" : "acide burn", "mapn" : "atlete", "used" : "254", "typ" : "ra", "date" : "29/06/2005", "size" : "6 x 6", "mdata" : "0606293900h19xxC43E0E0L2bWhC5E0L2dWg2ME0L2dM2E0E0L2bC2E0M2E0ME0C3E0L2h2E0ME0L2g2ME0L2gWdC1E0L2hWb3E0C6"},
-  {"auth" : "ququ", "mapn" : "doubleduel", "used" : "232", "typ" : "dm", "date" : "31/12/2002", "size" : "9 x 9", "mdata" : "0909183900h14xx10HNE1E2E3E4E5N2HE15NE12HE2NHNHNE22HE32NC12NE32HE4NHNHNE42HE55NE52HNE1E2E3E4E5N10H"},
-  {"auth" : "sky master", "mapn" : "brasier", "used" : "229", "typ" : "ra", "date" : "05/05/2004", "size" : "6 x 6", "mdata" : "0606333900h20xx7HNB2dB2bB2dC4HNC2B3dB3hNHB2dB3hC1B1dB2bHB1hB3bB3gC3B1bHC5B2gB2hB1gC6"},
-  {"auth" : "dr destroy", "mapn" : "pits", "used" : "222", "typ" : "dm", "date" : "05/05/2004", "size" : "5 x 7", "mdata" : "0507223900h08xxE5WhWg2NWhHWh2NWhNWhWdE4WgH3NHNWdE3Wg2NH2NC1WdE2WgH3NHNWdE1WgWb2NWbHWb2NWbN"},
-  {"auth" : "zombie", "mapn" : "other way", "used" : "193", "typ" : "dm", "date" : "29/06/2005", "size" : "6 x 6", "mdata" : "0606153900h21xxH4E0HE0B3b2B1gB3g2E0B1bC1E0B1h2E0B1b2E0B1h2E0B3d2B1dB3hE0H4E0H"},
-  {"auth" : "yinyin", "mapn" : "face", "used" : "192", "typ" : "dm", "date" : "04/03/2004", "size" : "7 x 7", "mdata" : "0707223900h08xxHWhWgHWdWhNWhMWhNWhHWgWhHWhWdHWgHWdE5NE5HWgHWdHWgHWdNMNHWgHWdHWgHWdE4C1E4HWgHWdHWgHWdNMNHWgHWdHWgHWdE1NE1HWgHWdHWbWgHWdWbNWbMWbNWbHWgWbHWbWd"},
-  {"auth" : "benzie_bot", "mapn" : "duel map", "used" : "189", "typ" : "dm", "date" : "05/05/2004", "size" : "5 x 7", "mdata" : "0507333900h20xx2N3E02NNPgH3NHNPd3NC13NNPgH3NHNPd2N3E02N"},
-  {"auth" : "babacoul", "mapn" : "course", "used" : "188", "typ" : "ra", "date" : "31/03/2004", "size" : "6 x 6", "mdata" : "0606113900h12xxNWgWhNWhNWdWh2NWhMWgWdWhC5WgM2NC4MWgWdNWgNE5WgWhE2WhNWgWdMWdNWgB1hWgC1WhWgE4NPgNWdC6WhWdWgB1hE4E4WdC2WdNWdNWbWg3E4WbB1gWhWbC3WbWd"},
-  {"auth" : "ququ", "mapn" : "erze", "used" : "185", "typ" : "ra", "date" : "05/05/2004", "size" : "5 x 6", "mdata" : "0506223900h08xxC2D1gE4D1dC3HD1h3E5D1hHE2E5C1E5E2HD1b3E5D1bHC5D1gE4D1dC4H"},
-  {"auth" : "coyote3033", "mapn" : "circuit 2", "used" : "184", "typ" : "ra", "date" : "05/05/2004", "size" : "7 x 7", "mdata" : "0707113900h12xxNL3gWhNNWhNNWhNNWhWdNC1NE0NC5NNL3g5NNWdNE0NC2NE0NNL3g5NNWdNC3NE0NC4NNL3bL3gNNL3bNNL3bNNL3bWd"},
-  {"auth" : "plasma7", "mapn" : "rapidos 5", "used" : "182", "typ" : "dm", "date" : "05/05/2004", "size" : "6 x 6", "mdata" : "0606333900h20xxMHL2g3HMHL2h4E0HL2hHE0PgHC1E02H2E0HE02H2E0E0PbE0HMHL2g3HM"},
-  {"auth" : "tchitch", "mapn" : "duel", "used" : "180", "typ" : "dm", "date" : "31/12/2002", "size" : "9 x 9", "mdata" : "0909183900h14xxH7B1dHB1hNE1E2E3E4E5NB1bB1h7NB1bB1h7NB1bB1hNHNC1NHNB1bB1h7NB1bB1h7NB1bB1hNE1E2E3E4E5NB1bH7B1gH"},
-  {"auth" : "zyro", "mapn" : "grid iron", "used" : "180", "typ" : "dm", "date" : "01/02/2004", "size" : "9 x 9", "mdata" : "0909343900h03xxE02NE0NE02NE0NMNMNMNM5NE04NE0MNMNMNME02NE0NC1NE02NE0MNMNMNME04NE05NMNMNMNMNE02NE0NE02NE0"},
-  {"auth" : "omega matt", "mapn" : "battle", "used" : "176", "typ" : "dm", "date" : "29/06/2005", "size" : "5 x 6", "mdata" : "0506343900h03xx7H4E02HHWhWgE0WgHWhWgC1Wg2HE0WhE0E0WhE07H"},
-  {"auth" : "indorax", "mapn" : "stealthkil", "used" : "175", "typ" : "dm", "date" : "01/02/2004", "size" : "9 x 9", "mdata" : "0909073900h05xxE0WgWh2NWhE0WhMWhE0Wh2NWhE0WdWhNWgME03NE0MNWdNWgE0NME0MNE0NWdMWgN5E0NMWdE0WgNME0C1E0MNE0WdMWgN5E0NMWdNWgE0NME0MNE0NWdNWgME03NE0MNWdE0WbWg2NWbE0WbMWbE0Wb2NWbE0WdWb"},
-  {"auth" : "ignis", "mapn" : "black hole", "used" : "173", "typ" : "dm", "date" : "05/05/2004", "size" : "5 x 7", "mdata" : "0507013900h24xx8HNE0NE0N2HE0HC1HE02HNE0NE0N8H"},
-  {"auth" : "vucky", "mapn" : "the killer", "used" : "169", "typ" : "dm", "date" : "29/06/2005", "size" : "5 x 6", "mdata" : "0506073900h05xxM4NWh2MNL3gWdHC1N2MNE0HNL3g2MN2E0N7M"},
-  {"auth" : "alPba_crou", "mapn" : "fastcoureu", "used" : "160", "typ" : "ra", "date" : "29/06/2005", "size" : "6 x 6", "mdata" : "0606183900h14xxB1hE52NMC6B1hE52NMD1hB1hE5C2C3E5NB1hE5L1bC5C4E5NB1hM2NE5NC1M2NE5L1bN"},
-  {"auth" : "chronotbot", "mapn" : "panal", "used" : "159", "typ" : "dm", "date" : "05/05/2004", "size" : "7 x 7", "mdata" : "0707153900h21xxN2B1gE52B1dNE5WgHE3E2E3HE5WdNWgE3E4E1E4E3NWdNWgE2E1C1E1E2NWdNWgE3E4E1E4E3NWdE5WgHE3E2E3HE5WdN2B1gE52B1dN"},
-  {"auth" : "martino", "mapn" : "arrow", "used" : "154", "typ" : "ra", "date" : "29/06/2005", "size" : "5 x 7", "mdata" : "0507223900h08xx3HC55HC4E04HC34E0C62HC2E06HC13H"},
-  {"auth" : "taghnar", "mapn" : "croix", "used" : "154", "typ" : "dm", "date" : "29/06/2005", "size" : "6 x 6", "mdata" : "0606303900h15xxMNL3gB2dB2bNMNL3hC1B1hB1bE0NL3hB2dB1dB3hB3dB1dB2bB2hB1gB3gB3bB1gB2gNE0B1hB1bE0NMNL3gB2hB2gNM"},
-  {"auth" : "eversman", "mapn" : "1 vs 1", "used" : "152", "typ" : "dm", "date" : "29/06/2005", "size" : "5 x 7", "mdata" : "0507183900h14xxE2L1dHNHNME4E54NME3E1HNC1NHE1E3M4NE5E4MNHNHE2L1g"},
-  {"auth" : "feo_turik", "mapn" : "mini arene", "used" : "151", "typ" : "dm", "date" : "29/06/2005", "size" : "5 x 6", "mdata" : "0506313900h07xxNWhWgMWhNWhMWhNWhMWhWdNWg2NMNNWdMWgNC12NMWdNWg4NNWdNWbWgMWbNWbMWbNWbMWbWd"},
-  {"auth" : "red_evil", "mapn" : "easy", "used" : "147", "typ" : "dm", "date" : "10/01/2005", "size" : "5 x 6", "mdata" : "0506073900h05xxE02NWhHWhNWhNHWg2NE0NNWdNWg4NNWdE0WgH2NC1NWdN4NWbE0"},
-  {"auth" : "bit man", "mapn" : "le trou", "used" : "144", "typ" : "dm", "date" : "05/05/2004", "size" : "7 x 9", "mdata" : "0709133900h16xx10HE05NE02HN4E0C1N2HN2E0H2E0N2HN5E0N2HE05NE010H"},
-  {"auth" : "_ktala_", "mapn" : "viska cat", "used" : "141", "typ" : "ra", "date" : "31/03/2004", "size" : "6 x 6", "mdata" : "0606143900h24xxE34HE3HC13E52HE5C22E52H2E5C3E52H3E5C4HE34HE3"},
-  {"auth" : "screwy", "mapn" : "eliminator", "used" : "139", "typ" : "dm", "date" : "04/03/2004", "size" : "7 x 7", "mdata" : "0707133900h16xxHE03HE0HE0D2d3D1dD2bE0HD1h3E0D1b2HD1hE0C1E0D1b2HD1h3E0D1bHE0D2h3D1gD2gE0HE03HE0H"},
-  {"auth" : "chrix", "mapn" : "hardturn", "used" : "133", "typ" : "dm", "date" : "05/05/2004", "size" : "6 x 6", "mdata" : "0606143900h24xxB2d4B1dB2bB1h4E0B1bB1hME0ME0B1bB1h2E0C1E0B1bB1hE0ME0MB1bB2h4B1gB2g"},
-  {"auth" : "gronaze", "mapn" : "speciale", "used" : "130", "typ" : "dm", "date" : "05/05/2004", "size" : "5 x 6", "mdata" : "0506223900h08xxD2d4D1dD2bD1hGgE3WdE4GdD1bD1hE5HWdHE2D1bD1hGdE1WdC1GgD1bD2h4D1gD2g"},
-  {"auth" : "ququ y", "mapn" : "iyktkktk", "used" : "128", "typ" : "ra", "date" : "05/05/2004", "size" : "7 x 7", "mdata" : "0707223900h08xx5E02NHN3HNNWgHC63D1dD2bC3WgH2NC1ND1bC5WgHC23D1gD2gC4WgHN3HNNWg5E02N"},
-  {"auth" : "chaos ad", "mapn" : "bahamut", "used" : "123", "typ" : "dm", "date" : "04/03/2004", "size" : "9 x 11", "mdata" : "0911343900h03xx4M3H5M2HME0HE0M2H5M3N4MHE0NE03E5E0NE03H2NE5C1E52N3HE0NE03E5E0NE0H4M3N5M2HME0HE0M2H5M3H4M"},
-  {"auth" : "ze_teufleu", "mapn" : "in_ze_hole", "used" : "123", "typ" : "dm", "date" : "10/01/2005", "size" : "7 x 7", "mdata" : "0707223900h08xxMH3D1gHMHE5E1E5E1E5HD1bE13NE1D1hD1bE5NC1NE5D1hD1bE13NE1D1hHE5E1E5E1E5HMH3D1dHM"},
-  {"auth" : "mold", "mapn" : "pitcombat", "used" : "123", "typ" : "dm", "date" : "01/02/2004", "size" : "7 x 9", "mdata" : "0709283900h06xx2MH3NH3M3NE03NM2NHE0NE0H2NHNE0NC1NE0NH2NHE0NE0H2NM3NE03N3MH3NH2M"},
-  {"auth" : "goret", "mapn" : "engrenages", "used" : "109", "typ" : "ra", "date" : "29/06/2005", "size" : "9 x 9", "mdata" : "0909223900h08xxB2dB1dB2b2HE02HC5B1hC4B1bB3bB1gB3gB2dB2bNB2hB1gB2gB3dB1dB3hB2hB2gHE0B3bB3gB2dB1dB2bB3bB1gB3gHB3dB3hB1hC12B1bE0B1hC22HB2hB1gB2gB3dB1dB3hNHB3bB1gB3g3HC3B2dB2bB1bE0B1hB2dB2bB3bB3gB2hB2gB3dB1dB3hB2hB2gB3dB3h"},
-  {"auth" : "o8doooo1", "mapn" : "vienoupas", "used" : "104", "typ" : "dm", "date" : "31/03/2004", "size" : "7 x 7", "mdata" : "0707333900h17xxD2d5D1dD2bD1hH3E0HD1bD1hE03NE0D1bD1hE0NC1NE0D1bD1hE03NE0D1bD1hH3E0HD1bD2h5D1gD2g"},
-  {"auth" : "samus 251", "mapn" : "samus", "used" : "101", "typ" : "ra", "date" : "31/03/2004", "size" : "5 x 7", "mdata" : "0507223900h08xxC5M3E0NL1hGgGdME0C3E0NGgGdME0C2E0MGgGdNE0C4E0MGgGdNL1b3E0MC1"},
-  {"auth" : "bucheron", "mapn" : "coureur2", "used" : "100", "typ" : "ra", "date" : "31/03/2004", "size" : "6 x 6", "mdata" : "0606223900h08xxC15E02M3E0E0L1d2E0C2C34E0C4C52E0E0L1g3E02M5E0C6"},
-  {"auth" : "allemagne", "mapn" : "enfer", "used" : "97", "typ" : "dm", "date" : "05/05/2004", "size" : "5 x 7", "mdata" : "0507303900h15xxNNPhE0NPhNHNPdNHNHNC1E0NPgNM2NHNPdN6HNNPbE0NPbE0NPbE0"},
-  {"auth" : "thunder 7", "mapn" : "closecomb2", "used" : "96", "typ" : "dm", "date" : "25/12/2003", "size" : "7 x 9", "mdata" : "0709183900h14xxMWhWg7MMWdWhMNPgWh2NWhE0Wh2NWhNPdWhMMWdE0HL3hE0NE0HL3hE0WdMMWdNE0WhNC1NE0WhNWdMMWdE0HL3bWhE0NE0HL3bWhE0Wd2MNPg2NE02NNPdMMWbWg7MWhMWbWd"},
-  {"auth" : "sky tiger", "mapn" : "smally", "used" : "84", "typ" : "dm", "date" : "31/03/2004", "size" : "5 x 6", "mdata" : "0506293900h19xx2H2M2HMD3b2E0B2bMH2E0C1E0HMB2h2E0D3hM2H2M2H"},
-  {"auth" : "nain tueur", "mapn" : "dark nain", "used" : "83", "typ" : "ra", "date" : "05/05/2004", "size" : "5 x 7", "mdata" : "0507223900h08xxM2HC42HMHE0D2dD1dD2bE0HC3ND1hC1D1bNC2HE0D2hD1gD2gE0HM2HC52HM"},
-  {"auth" : "arnaud03", "mapn" : "durmaisbon", "used" : "83", "typ" : "ra", "date" : "10/01/2005", "size" : "8 x 8", "mdata" : "0808343900h03xxC1WgWhD1bWhWdHWdWhGdWhB3bWhB1gWhE1PdWhMWhWdHWhWgD1bWdE1PhC6WdHE3PgGgMWdNPhWgD1bE1D2dWhWgD1dWhD1dHMWdC2WgHGdWgWdWbD1hE0L2gWh2E0WbWhMWdB3dWgB1dHC5B2hB1gE2PdMWdNL3hWgGdE0L3hNPhD1dPh2D1dHWdNWgNPdNL2hHGdE2PdE2PgGgWdMWgWbC3WbD1dWbD1dL2hWbD1dWbD2bWdC4WbE1WbWd"},
-  {"auth" : "robostrike", "mapn" : "arena", "used" : "80", "typ" : "dm", "date" : "31/12/2002", "size" : "9 x 11", "mdata" : "0911053900h29xx3MD2d3D1dD2b4MD2dD1dD3h3ND3dD1dD2b2MD1hHL3h5E0HL3hD1bMD2dD3hNE0NGdNE0ND3dD2bD1h2NE0GgC1GgE02ND1bD2hD3gNE0NGdNE0ND3bD2gMD1hHWb5E0HWbD1b2MD2hD1gD3g3ND3bD1gD2g4MD2h3D1gD2g3M"},
-  {"auth" : "xrbot", "mapn" : "plusx5", "used" : "80", "typ" : "dm", "date" : "29/06/2005", "size" : "7 x 7", "mdata" : "0707223900h08xxHE0D2dD2bE04HD1hD2dD2bH2E0D2dD3hD1hD3dD1dD2bD2dD2hD1gC1D1dD2bD2gD2hD1gD3gD1bD3bD2g2E0HD2hD2gD1b4HE0D2hD2gE0H"},
-  {"auth" : "pauleta", "mapn" : "paf paf", "used" : "66", "typ" : "ra", "date" : "10/01/2005", "size" : "5 x 7", "mdata" : "0507073900h05xxC2D2d3D1dD2bC3HD1hL3dHL3bWdE0L2dHL3bD1bL3g2HD1hE0L2hC1E0L2bD1b2HD1hL3dHL3hE0L2gWdHL3hD1bL3gHC5D2h3D1gD2gC4"},
-  {"auth" : "raramses", "mapn" : "mini", "used" : "65", "typ" : "dm", "date" : "29/06/2005", "size" : "5 x 6", "mdata" : "0506343900h03xxE0B2dB2bD2dD2bPh2MD2hD2gD2hD2gE0D2dD1dD2bB3bB1gB3gD2hD1gD2gB1bB2dB3hC1HE0B3dWgB3hE0Wh"},
-  {"auth" : "damess", "mapn" : "quarter", "used" : "63", "typ" : "ra", "date" : "29/06/2005", "size" : "6 x 6", "mdata" : "0606143900h24xx2E0B1bNB1bE02B1gB2gWdNL3dB1bE0NNL3bWhC2WdWhWbC1WdWbB3dB1dWdB1dB2bC3WgWdC4WbNL3bWhNE0B1bNL3dWgB2d2B1dE0B1bNB1h2E0"},
-  {"auth" : "kill_modo", "mapn" : "dueliste", "used" : "59", "typ" : "dm", "date" : "29/06/2005", "size" : "6 x 6", "mdata" : "0606223900h08xx2M2E0Wh3MD2d2D1dD2bME0WgD1h2MD1bE0WdE0WgD1hMC1D1bE0WdMD2h2D1gD2g3M2E0Wb2M"},
-  {"auth" : "bombvoyage", "mapn" : "sinfall", "used" : "55", "typ" : "dm", "date" : "29/06/2005", "size" : "7 x 7", "mdata" : "0707283900h06xxE0D2dD2bD2dD1dD2bE0D2dD3hD3dD3hHD3dD2bD1hH3E0D3bD2gD2hD3gE0C1E0D3dD2bD2dD3h3E0HD1bD2hD3gHD3bD3gD3bD2gE0D2hD1gD2gD2hD2gE0"},
-  {"auth" : "mr yoda", "mapn" : "tapifurius", "used" : "55", "typ" : "ra", "date" : "29/06/2005", "size" : "7 x 10", "mdata" : "0710283900h06xxC12NE32B1b2NE5C22MNL1gM2B1bMNL1gMNL1gB3bWg2B1gMB1bPgH3B1gB3gWdB1bWgME44MNMB1hWdB3dWgB1dB2bMC32NPh2NB1hWdNMB1bL1g2MHNNL1dMB1hWdC4NPhB3dWb6B1dWbB3hWdWb"},
-  {"auth" : "dark_boss", "mapn" : "bricedenic", "used" : "45", "typ" : "ra", "date" : "29/06/2005", "size" : "7 x 8", "mdata" : "0708193900h24xx7B1dB1bB1hC1HB1bPhNNPhC4B1bB1hHNL1gC5WdNWdC6L1dMB1bB1hMN2E1E0MB1bB1hMNE0NE1MB1bB1hC3L1gWd2NPbE0NC2WdB1bB1h7B1g"},
-  {"auth" : "oceanie", "mapn" : "blue", "used" : "44", "typ" : "ra", "date" : "05/05/2004", "size" : "5 x 6", "mdata" : "0506183900h14xxM2NMNME0NC4E0NE0NC3HC2HC1E0NC6HC5E0MNE0MNM"},
-  {"auth" : "Pbam", "mapn" : "pitit truc", "used" : "44", "typ" : "ra", "date" : "25/12/2003", "size" : "6 x 6", "mdata" : "0606013900h24xxC1MNNPhNC2NME0H2MNPgHB2dB2bE02NE0B2hB2gHNPd2MHE0MNC4NNPbNMC3"},
-  {"auth" : "parker", "mapn" : "parker", "used" : "43", "typ" : "ra", "date" : "04/03/2004", "size" : "6 x 6", "mdata" : "0606173900h22xxC1MNNPbNC2NME0H2MNPgHB3bB3gE02NE0B3dB3hHNPd2MHE0MNC4NNPbNMC3"},
-  {"auth" : "tarlouze", "mapn" : "bourrin", "used" : "38", "typ" : "ra", "date" : "29/06/2005", "size" : "6 x 6", "mdata" : "0606043900h06xx2HB1bGdB1bHB1gB1gWbB2gWbC1L3dWgB3dWbB1dGdGdL3bC2WbC4WgWhGdL3bGd2B1dB2bC3L3dWgWhB2dB1dHE4B1bGdWgB1hWg2HE2B1bGdB1hH"},
-  {"auth" : "oceanie", "mapn" : "movies", "used" : "32", "typ" : "ra", "date" : "05/05/2004", "size" : "5 x 7", "mdata" : "0507053900h29xxC15NC22HME02HN3E0C53E02NHE0MNHC45NC3"},
-  {"auth" : "lapin_hihi", "mapn" : "speed way2", "used" : "28", "typ" : "ra", "date" : "29/06/2005", "size" : "6 x 6", "mdata" : "0606183900h14xxH3E0C5WbHC6WdB2d2B1dWhB2bE0E0WdB1hC1E0B1bWdE0E0WdB1hE0C2B1bWd2E0B2h2B1gB2gC3WgHC4Wh2E0WhE0H"},
-  {"auth" : "theo666", "mapn" : "funny", "used" : "25", "typ" : "ra", "date" : "29/06/2005", "size" : "5 x 7", "mdata" : "0507153900h21xxC2NL2b3NWhHC32HE0NE0HNL2g2NE0C1E02NNL2dHE0NE02HC5H3NWbNL2hC4"}
-  ]
+  {
+    "auth": "tueur2003",
+    "mapn": "coureur",
+    "used": "5770",
+    "typ": "ra",
+    "date": "01/02/2004",
+    "size": "6 x 6",
+    "mdata": "0606353900h21xxE0E0L1h2E0MC64E0M3E0C5C34E0C2C43E0M4E0C1M2E0E0L1bE0"
+  },
+  {
+    "auth": "airwalk",
+    "mapn": "blitz",
+    "used": "3890",
+    "typ": "dm",
+    "date": "25/12/2003",
+    "size": "7 x 9",
+    "mdata": "0709073900h05xxNL2gWhNWhNWhWdHE4HNL2gWhNWhNWhWdNL2bWgE5GgD2dD1dD2bGdE5NL2bWdHD2dD1dD3hE1D3dD1dD2bHE2D1hE3NC1NE3D1bE2HD2hD1gD3gE1D3bD1gD2gHNWgWhE5GdD2hD1gD2gGgE5NL2hWdNL2gL2bNWbNWdWbHE4HNL2gWbNWbNWdWb"
+  },
+  {
+    "auth": "airwalk",
+    "mapn": "blitz (rotated)",
+    "rotated": true,
+    "used": "3890",
+    "typ": "dm",
+    "date": "25/12/2003",
+    "size": "7 x 9",
+    "mdata": "0709073900h05xxNL2gWhNWhNWhWdHE4HNL2gWhNWhNWhWdNL2bWgE5GgD2dD1dD2bGdE5NL2bWdHD2dD1dD3hE1D3dD1dD2bHE2D1hE3NC1NE3D1bE2HD2hD1gD3gE1D3bD1gD2gHNWgWhE5GdD2hD1gD2gGgE5NL2hWdNL2gL2bNWbNWdWbHE4HNL2gWbNWbNWdWb"
+  },
+  {
+    "auth": "robocop6",
+    "mapn": "longstreet",
+    "rotated": true,
+    "used": "1572",
+    "typ": "ra",
+    "date": "05/05/2004",
+    "size": "5 x 13",
+    "mdata": "0513223900h08xx2E0NPhWd10H2E0NPgNPh9HE0C1H9NC22E0NPgNPb9H2E0NPbWd10H"
+  },
+  {
+    "auth": "babacoul",
+    "mapn": "pticoureur",
+    "used": "908",
+    "typ": "ra",
+    "date": "05/05/2004",
+    "size": "6 x 6",
+    "mdata": "0606143900h24xx7HC13Gg2HGgC2C6Gg2HGgC5C3Gg2H3GgC47H"
+  },
+  {
+    "auth": "bucheron",
+    "mapn": "x_trem",
+    "used": "657",
+    "typ": "ra",
+    "date": "31/03/2004",
+    "size": "5 x 7",
+    "mdata": "0507223900h08xxC2D1dD2bHD2dD1dC3D2hD3gD3dD1dD3hD3bD2gE0WgD1h3E0D1bE0WdD2dD3hD3bC5D3gD3dD2bC1D1gD2gHD2hD1gC4"
+  },
+  {
+    "auth": "bebepirate",
+    "mapn": "rapidos",
+    "used": "581",
+    "typ": "dm",
+    "date": "07/12/2003",
+    "size": "6 x 6",
+    "mdata": "0606223900h08xxM4H2ME12E2E12ME3C12E32M2E5E4E52ME12E2E12M4HM"
+  },
+  {
+    "auth": "robokill12",
+    "mapn": "zorb",
+    "used": "575",
+    "typ": "ra",
+    "date": "05/05/2004",
+    "size": "5 x 6",
+    "mdata": "0506113900h10xxB1bL3dL3bWgWh4B1gWhB1gL3bL3gWdWhB1bWg2E0C5C6B1hWdB1bWg2E0C4E0B1hWdB1bWgC1C2C3E0B1hWdB1dL3dL3hWgWb4B1dWbB1hL3gL3hWdWb"
+  },
+  {
+    "auth": "tueur2003",
+    "mapn": "rapide",
+    "used": "549",
+    "typ": "ra",
+    "date": "01/02/2004",
+    "size": "6 x 6",
+    "mdata": "0606223900h08xxC14NE5NPhNPd3NE5NPdNC4NC5E52NC3Wh2NMC2Wh2N2M6NC6"
+  },
+  {
+    "auth": "trumble",
+    "mapn": "in connu",
+    "used": "500",
+    "typ": "dm",
+    "date": "05/05/2004",
+    "size": "5 x 6",
+    "mdata": "0506113900h12xxB1h4E5B1bB1h4E5B1bB1hE5E4PgWhWb2E5B1bB1h4E5B1bB1h3E5C1B1b"
+  },
+  {
+    "auth": "111dmx111",
+    "mapn": "boom",
+    "used": "483",
+    "typ": "dm",
+    "date": "05/05/2004",
+    "size": "7 x 7",
+    "mdata": "0707183900h14xxE5NWhE5NWhE5NWhE5NL3gHNHNHNWdE5NE5NE5NE5NL3gHNHNHNWdE5NE5NC1NE5NL3gHNHNHNWdE5NL3bE5NL3bE5NL3bE5"
+  },
+  {
+    "auth": "cutkiller",
+    "mapn": "flower",
+    "used": "478",
+    "typ": "dm",
+    "date": "04/03/2004",
+    "size": "7 x 7",
+    "mdata": "0707053900h29xxNNL1dWhD3bD1gD3gNL1gWhNNL1bWgE0D1bE0D1hE0NL1bWdD2dD1dD3dD1dD2dD1dD2bD1hE0D1bC1D1hE0D1bD2hD1gD2gD1gD3gD1gD2gNL1hWgE0D1bE0D1hE0NL1hWdNNL1dWbD3dD1dD3hNL1gWbN"
+  },
+  {
+    "auth": "goret",
+    "mapn": "plouf",
+    "used": "427",
+    "typ": "dm",
+    "date": "10/01/2005",
+    "size": "7 x 7",
+    "mdata": "0707063900h25xxD2d5D1dD2bD1hE1E2E3E4E5D1bD1hD3b3D1gD3gD1bHD1bHWdC1L3dHD1hHD1hD3d3D1dD3hD1bD1hE1E2E3E4E5D1bD2h5D1gD2g"
+  },
+  {
+    "auth": "lusitanos",
+    "mapn": "speed way",
+    "used": "411",
+    "typ": "dm",
+    "date": "04/03/2004",
+    "size": "6 x 6",
+    "mdata": "0606153900h21xxH4E0HE0B2d2B1dB2b2E0B1hC1E0B1b2E0B1h2E0B1b2E0B2h2B1gB2gE0H4E0H"
+  },
+  {
+    "auth": "robo_will",
+    "mapn": "rapidos 2",
+    "used": "395",
+    "typ": "dm",
+    "date": "01/02/2004",
+    "size": "6 x 6",
+    "mdata": "0606093900h27xxM4HMH4E02HE0C12E02H4E02H4E0HM4HM"
+  },
+  {
+    "auth": "beaudry",
+    "mapn": "detourmort",
+    "used": "373",
+    "typ": "dm",
+    "date": "05/05/2004",
+    "size": "6 x 6",
+    "mdata": "0606313900h07xxM4H2MD2d2D1dD2b2MD1hE4E1D1b2MD1hE1C1D1b2MD2h2D1gH2M4HM"
+  },
+  {
+    "auth": "odie",
+    "mapn": "try me",
+    "used": "350",
+    "typ": "ra",
+    "date": "05/05/2004",
+    "size": "6 x 6",
+    "mdata": "0606333900h20xxC19E5C52E5C67E5C32E5C27E5C43E5"
+  },
+  {
+    "auth": "robokill12",
+    "mapn": "Pbilips",
+    "used": "344",
+    "typ": "dm",
+    "date": "05/05/2004",
+    "size": "5 x 6",
+    "mdata": "0506233900h04xxHL3dL3bWhWg4B1gWhHL3gL3bWhWdB1bWg4E0B1hWdB1bWg4E0B1hWdB1bWgC13E0B1hWdHL3dL3hWgWb4B1dWbHL3gL3hWdWb"
+  },
+  {
+    "auth": "___m16___",
+    "mapn": "jaymap",
+    "used": "335",
+    "typ": "dm",
+    "date": "07/12/2003",
+    "size": "7 x 9",
+    "mdata": "0709073900h05xx2M5HWh3ME3L1bD3bD1gL2hD1gD1gL2hD3gE3L1bME4WgMD1bL3dE2WhE5E1WhD1hL3dWgME4WdE4WgNL2bD1bE5C1E5D1hNL2bE4WdE4WgMD1bL3dE1E5E2D1hL3dWgME4WdME3L1hD3dD1dL2bWhD1dD1dL2bWhD3hE3L1h3M5HWb2M"
+  },
+  {
+    "auth": "babacoul",
+    "mapn": "map baba 1",
+    "used": "317",
+    "typ": "dm",
+    "date": "31/03/2004",
+    "size": "9 x 9",
+    "mdata": "0909343900h03xx10ME02NE02NE02MNE0NE0NE0N2M2N3E02N2M3E0M3E02M2N3E02N2MNE0NC1NE0N2ME02NE02NE010M"
+  },
+  {
+    "auth": "andybot2",
+    "mapn": "chaosrace",
+    "used": "310",
+    "typ": "ra",
+    "date": "01/02/2004",
+    "size": "9 x 13",
+    "mdata": "0913283900h06xxD3bD1gD2dE03N3D1dND1bMD1bL3dMD1hN3HE0HC3HD1bMD1hMD1hNL3dD2d3D1dHD1bE0D1bMD1hMD1hC5WbD1hE0Wd2E0HD1bHL2bD3dD1dC2MD1hHL3dC1WbHWbHL2bD1bE0D1bE0MNL3gE5HD1h3ND1dD5dD1dHNMNL2gE2MD1hMD1hHE0HE0HL1hD3b2D1gE3WgMD1hL3dMD2hWdD1gWbD1g2D1gWbND1bME0E1WbE4WbD2hWb3D1gWb3D1gND1bHC4"
+  },
+  {
+    "auth": "robostrike",
+    "mapn": "close comb",
+    "used": "303",
+    "typ": "dm",
+    "date": "01/01/2003",
+    "size": "7 x 9",
+    "mdata": "0709293900h19xx10M3NE03N2MNHE0NE0HN2MNE0NC1NE0N2MNHE0NE0HN2M3NE03N10M"
+  },
+  {
+    "auth": "airwalk",
+    "mapn": "scrimmage",
+    "used": "278",
+    "typ": "ra",
+    "date": "01/02/2004",
+    "size": "7 x 9",
+    "mdata": "0709073900h05xxNL2gWhNWhNWhWdHE4HNL2gWhNWhNWhWdNL2bWgC5GgD2dD1dD2bGdC2NL2bWdHD2dD1dD3hE1D3dD1dD2bHE2D1hE3NC1NE3D1bE2HD2hD1gD3gE1D3bD1gD2gHNWgWhC4GdD2hD1gD2gGgC3NL2hWdNL2gL2bNWbNWdWbHE4HNL2gWbNWbNWdWb"
+  },
+  {
+    "auth": "acide burn",
+    "mapn": "atlete",
+    "used": "254",
+    "typ": "ra",
+    "date": "29/06/2005",
+    "size": "6 x 6",
+    "mdata": "0606293900h19xxC43E0E0L2bWhC5E0L2dWg2ME0L2dM2E0E0L2bC2E0M2E0ME0C3E0L2h2E0ME0L2g2ME0L2gWdC1E0L2hWb3E0C6"
+  },
+  {
+    "auth": "ququ",
+    "mapn": "doubleduel",
+    "used": "232",
+    "typ": "dm",
+    "date": "31/12/2002",
+    "size": "9 x 9",
+    "mdata": "0909183900h14xx10HNE1E2E3E4E5N2HE15NE12HE2NHNHNE22HE32NC12NE32HE4NHNHNE42HE55NE52HNE1E2E3E4E5N10H"
+  },
+  {
+    "auth": "sky master",
+    "mapn": "brasier",
+    "used": "229",
+    "typ": "ra",
+    "date": "05/05/2004",
+    "size": "6 x 6",
+    "mdata": "0606333900h20xx7HNB2dB2bB2dC4HNC2B3dB3hNHB2dB3hC1B1dB2bHB1hB3bB3gC3B1bHC5B2gB2hB1gC6"
+  },
+  {
+    "auth": "dr destroy",
+    "mapn": "pits",
+    "used": "222",
+    "typ": "dm",
+    "date": "05/05/2004",
+    "size": "5 x 7",
+    "mdata": "0507223900h08xxE5WhWg2NWhHWh2NWhNWhWdE4WgH3NHNWdE3Wg2NH2NC1WdE2WgH3NHNWdE1WgWb2NWbHWb2NWbN"
+  },
+  {
+    "auth": "zombie",
+    "mapn": "other way",
+    "used": "193",
+    "typ": "dm",
+    "date": "29/06/2005",
+    "size": "6 x 6",
+    "mdata": "0606153900h21xxH4E0HE0B3b2B1gB3g2E0B1bC1E0B1h2E0B1b2E0B1h2E0B3d2B1dB3hE0H4E0H"
+  },
+  {
+    "auth": "yinyin",
+    "mapn": "face",
+    "used": "192",
+    "typ": "dm",
+    "date": "04/03/2004",
+    "size": "7 x 7",
+    "mdata": "0707223900h08xxHWhWgHWdWhNWhMWhNWhHWgWhHWhWdHWgHWdE5NE5HWgHWdHWgHWdNMNHWgHWdHWgHWdE4C1E4HWgHWdHWgHWdNMNHWgHWdHWgHWdE1NE1HWgHWdHWbWgHWdWbNWbMWbNWbHWgWbHWbWd"
+  },
+  {
+    "auth": "benzie_bot",
+    "mapn": "duel map",
+    "used": "189",
+    "typ": "dm",
+    "date": "05/05/2004",
+    "size": "5 x 7",
+    "mdata": "0507333900h20xx2N3E02NNPgH3NHNPd3NC13NNPgH3NHNPd2N3E02N"
+  },
+  {
+    "auth": "babacoul",
+    "mapn": "course",
+    "used": "188",
+    "typ": "ra",
+    "date": "31/03/2004",
+    "size": "6 x 6",
+    "mdata": "0606113900h12xxNWgWhNWhNWdWh2NWhMWgWdWhC5WgM2NC4MWgWdNWgNE5WgWhE2WhNWgWdMWdNWgB1hWgC1WhWgE4NPgNWdC6WhWdWgB1hE4E4WdC2WdNWdNWbWg3E4WbB1gWhWbC3WbWd"
+  },
+  {
+    "auth": "ququ",
+    "mapn": "erze",
+    "used": "185",
+    "typ": "ra",
+    "date": "05/05/2004",
+    "size": "5 x 6",
+    "mdata": "0506223900h08xxC2D1gE4D1dC3HD1h3E5D1hHE2E5C1E5E2HD1b3E5D1bHC5D1gE4D1dC4H"
+  },
+  {
+    "auth": "coyote3033",
+    "mapn": "circuit 2",
+    "used": "184",
+    "typ": "ra",
+    "date": "05/05/2004",
+    "size": "7 x 7",
+    "mdata": "0707113900h12xxNL3gWhNNWhNNWhNNWhWdNC1NE0NC5NNL3g5NNWdNE0NC2NE0NNL3g5NNWdNC3NE0NC4NNL3bL3gNNL3bNNL3bNNL3bWd"
+  },
+  {
+    "auth": "plasma7",
+    "mapn": "rapidos 5",
+    "used": "182",
+    "typ": "dm",
+    "date": "05/05/2004",
+    "size": "6 x 6",
+    "mdata": "0606333900h20xxMHL2g3HMHL2h4E0HL2hHE0PgHC1E02H2E0HE02H2E0E0PbE0HMHL2g3HM"
+  },
+  {
+    "auth": "tchitch",
+    "mapn": "duel",
+    "used": "180",
+    "typ": "dm",
+    "date": "31/12/2002",
+    "size": "9 x 9",
+    "mdata": "0909183900h14xxH7B1dHB1hNE1E2E3E4E5NB1bB1h7NB1bB1h7NB1bB1hNHNC1NHNB1bB1h7NB1bB1h7NB1bB1hNE1E2E3E4E5NB1bH7B1gH"
+  },
+  {
+    "auth": "zyro",
+    "mapn": "grid iron",
+    "used": "180",
+    "typ": "dm",
+    "date": "01/02/2004",
+    "size": "9 x 9",
+    "mdata": "0909343900h03xxE02NE0NE02NE0NMNMNMNM5NE04NE0MNMNMNME02NE0NC1NE02NE0MNMNMNME04NE05NMNMNMNMNE02NE0NE02NE0"
+  },
+  {
+    "auth": "omega matt",
+    "mapn": "battle",
+    "used": "176",
+    "typ": "dm",
+    "date": "29/06/2005",
+    "size": "5 x 6",
+    "mdata": "0506343900h03xx7H4E02HHWhWgE0WgHWhWgC1Wg2HE0WhE0E0WhE07H"
+  },
+  {
+    "auth": "indorax",
+    "mapn": "stealthkil",
+    "used": "175",
+    "typ": "dm",
+    "date": "01/02/2004",
+    "size": "9 x 9",
+    "mdata": "0909073900h05xxE0WgWh2NWhE0WhMWhE0Wh2NWhE0WdWhNWgME03NE0MNWdNWgE0NME0MNE0NWdMWgN5E0NMWdE0WgNME0C1E0MNE0WdMWgN5E0NMWdNWgE0NME0MNE0NWdNWgME03NE0MNWdE0WbWg2NWbE0WbMWbE0Wb2NWbE0WdWb"
+  },
+  {
+    "auth": "ignis",
+    "mapn": "black hole",
+    "used": "173",
+    "typ": "dm",
+    "date": "05/05/2004",
+    "size": "5 x 7",
+    "mdata": "0507013900h24xx8HNE0NE0N2HE0HC1HE02HNE0NE0N8H"
+  },
+  {
+    "auth": "vucky",
+    "mapn": "the killer",
+    "used": "169",
+    "typ": "dm",
+    "date": "29/06/2005",
+    "size": "5 x 6",
+    "mdata": "0506073900h05xxM4NWh2MNL3gWdHC1N2MNE0HNL3g2MN2E0N7M"
+  },
+  {
+    "auth": "alPba_crou",
+    "mapn": "fastcoureu",
+    "used": "160",
+    "typ": "ra",
+    "date": "29/06/2005",
+    "size": "6 x 6",
+    "mdata": "0606183900h14xxB1hE52NMC6B1hE52NMD1hB1hE5C2C3E5NB1hE5L1bC5C4E5NB1hM2NE5NC1M2NE5L1bN"
+  },
+  {
+    "auth": "chronotbot",
+    "mapn": "panal",
+    "used": "159",
+    "typ": "dm",
+    "date": "05/05/2004",
+    "size": "7 x 7",
+    "mdata": "0707153900h21xxN2B1gE52B1dNE5WgHE3E2E3HE5WdNWgE3E4E1E4E3NWdNWgE2E1C1E1E2NWdNWgE3E4E1E4E3NWdE5WgHE3E2E3HE5WdN2B1gE52B1dN"
+  },
+  {
+    "auth": "martino",
+    "mapn": "arrow",
+    "used": "154",
+    "typ": "ra",
+    "date": "29/06/2005",
+    "size": "5 x 7",
+    "mdata": "0507223900h08xx3HC55HC4E04HC34E0C62HC2E06HC13H"
+  },
+  {
+    "auth": "taghnar",
+    "mapn": "croix",
+    "used": "154",
+    "typ": "dm",
+    "date": "29/06/2005",
+    "size": "6 x 6",
+    "mdata": "0606303900h15xxMNL3gB2dB2bNMNL3hC1B1hB1bE0NL3hB2dB1dB3hB3dB1dB2bB2hB1gB3gB3bB1gB2gNE0B1hB1bE0NMNL3gB2hB2gNM"
+  },
+  {
+    "auth": "eversman",
+    "mapn": "1 vs 1",
+    "used": "152",
+    "typ": "dm",
+    "date": "29/06/2005",
+    "size": "5 x 7",
+    "mdata": "0507183900h14xxE2L1dHNHNME4E54NME3E1HNC1NHE1E3M4NE5E4MNHNHE2L1g"
+  },
+  {
+    "auth": "feo_turik",
+    "mapn": "mini arene",
+    "used": "151",
+    "typ": "dm",
+    "date": "29/06/2005",
+    "size": "5 x 6",
+    "mdata": "0506313900h07xxNWhWgMWhNWhMWhNWhMWhWdNWg2NMNNWdMWgNC12NMWdNWg4NNWdNWbWgMWbNWbMWbNWbMWbWd"
+  },
+  {
+    "auth": "red_evil",
+    "mapn": "easy",
+    "used": "147",
+    "typ": "dm",
+    "date": "10/01/2005",
+    "size": "5 x 6",
+    "mdata": "0506073900h05xxE02NWhHWhNWhNHWg2NE0NNWdNWg4NNWdE0WgH2NC1NWdN4NWbE0"
+  },
+  {
+    "auth": "bit man",
+    "mapn": "le trou",
+    "used": "144",
+    "typ": "dm",
+    "date": "05/05/2004",
+    "size": "7 x 9",
+    "mdata": "0709133900h16xx10HE05NE02HN4E0C1N2HN2E0H2E0N2HN5E0N2HE05NE010H"
+  },
+  {
+    "auth": "_ktala_",
+    "mapn": "viska cat",
+    "used": "141",
+    "typ": "ra",
+    "date": "31/03/2004",
+    "size": "6 x 6",
+    "mdata": "0606143900h24xxE34HE3HC13E52HE5C22E52H2E5C3E52H3E5C4HE34HE3"
+  },
+  {
+    "auth": "screwy",
+    "mapn": "eliminator",
+    "used": "139",
+    "typ": "dm",
+    "date": "04/03/2004",
+    "size": "7 x 7",
+    "mdata": "0707133900h16xxHE03HE0HE0D2d3D1dD2bE0HD1h3E0D1b2HD1hE0C1E0D1b2HD1h3E0D1bHE0D2h3D1gD2gE0HE03HE0H"
+  },
+  {
+    "auth": "chrix",
+    "mapn": "hardturn",
+    "used": "133",
+    "typ": "dm",
+    "date": "05/05/2004",
+    "size": "6 x 6",
+    "mdata": "0606143900h24xxB2d4B1dB2bB1h4E0B1bB1hME0ME0B1bB1h2E0C1E0B1bB1hE0ME0MB1bB2h4B1gB2g"
+  },
+  {
+    "auth": "gronaze",
+    "mapn": "speciale",
+    "used": "130",
+    "typ": "dm",
+    "date": "05/05/2004",
+    "size": "5 x 6",
+    "mdata": "0506223900h08xxD2d4D1dD2bD1hGgE3WdE4GdD1bD1hE5HWdHE2D1bD1hGdE1WdC1GgD1bD2h4D1gD2g"
+  },
+  {
+    "auth": "ququ y",
+    "mapn": "iyktkktk",
+    "used": "128",
+    "typ": "ra",
+    "date": "05/05/2004",
+    "size": "7 x 7",
+    "mdata": "0707223900h08xx5E02NHN3HNNWgHC63D1dD2bC3WgH2NC1ND1bC5WgHC23D1gD2gC4WgHN3HNNWg5E02N"
+  },
+  {
+    "auth": "chaos ad",
+    "mapn": "bahamut",
+    "used": "123",
+    "typ": "dm",
+    "date": "04/03/2004",
+    "size": "9 x 11",
+    "mdata": "0911343900h03xx4M3H5M2HME0HE0M2H5M3N4MHE0NE03E5E0NE03H2NE5C1E52N3HE0NE03E5E0NE0H4M3N5M2HME0HE0M2H5M3H4M"
+  },
+  {
+    "auth": "ze_teufleu",
+    "mapn": "in_ze_hole",
+    "used": "123",
+    "typ": "dm",
+    "date": "10/01/2005",
+    "size": "7 x 7",
+    "mdata": "0707223900h08xxMH3D1gHMHE5E1E5E1E5HD1bE13NE1D1hD1bE5NC1NE5D1hD1bE13NE1D1hHE5E1E5E1E5HMH3D1dHM"
+  },
+  {
+    "auth": "mold",
+    "mapn": "pitcombat",
+    "used": "123",
+    "typ": "dm",
+    "date": "01/02/2004",
+    "size": "7 x 9",
+    "mdata": "0709283900h06xx2MH3NH3M3NE03NM2NHE0NE0H2NHNE0NC1NE0NH2NHE0NE0H2NM3NE03N3MH3NH2M"
+  },
+  {
+    "auth": "goret",
+    "mapn": "engrenages",
+    "used": "109",
+    "typ": "ra",
+    "date": "29/06/2005",
+    "size": "9 x 9",
+    "mdata": "0909223900h08xxB2dB1dB2b2HE02HC5B1hC4B1bB3bB1gB3gB2dB2bNB2hB1gB2gB3dB1dB3hB2hB2gHE0B3bB3gB2dB1dB2bB3bB1gB3gHB3dB3hB1hC12B1bE0B1hC22HB2hB1gB2gB3dB1dB3hNHB3bB1gB3g3HC3B2dB2bB1bE0B1hB2dB2bB3bB3gB2hB2gB3dB1dB3hB2hB2gB3dB3h"
+  },
+  {
+    "auth": "o8doooo1",
+    "mapn": "vienoupas",
+    "used": "104",
+    "typ": "dm",
+    "date": "31/03/2004",
+    "size": "7 x 7",
+    "mdata": "0707333900h17xxD2d5D1dD2bD1hH3E0HD1bD1hE03NE0D1bD1hE0NC1NE0D1bD1hE03NE0D1bD1hH3E0HD1bD2h5D1gD2g"
+  },
+  {
+    "auth": "samus 251",
+    "mapn": "samus",
+    "used": "101",
+    "typ": "ra",
+    "date": "31/03/2004",
+    "size": "5 x 7",
+    "mdata": "0507223900h08xxC5M3E0NL1hGgGdME0C3E0NGgGdME0C2E0MGgGdNE0C4E0MGgGdNL1b3E0MC1"
+  },
+  {
+    "auth": "bucheron",
+    "mapn": "coureur2",
+    "used": "100",
+    "typ": "ra",
+    "date": "31/03/2004",
+    "size": "6 x 6",
+    "mdata": "0606223900h08xxC15E02M3E0E0L1d2E0C2C34E0C4C52E0E0L1g3E02M5E0C6"
+  },
+  {
+    "auth": "allemagne",
+    "mapn": "enfer",
+    "used": "97",
+    "typ": "dm",
+    "date": "05/05/2004",
+    "size": "5 x 7",
+    "mdata": "0507303900h15xxNNPhE0NPhNHNPdNHNHNC1E0NPgNM2NHNPdN6HNNPbE0NPbE0NPbE0"
+  },
+  {
+    "auth": "thunder 7",
+    "mapn": "closecomb2",
+    "used": "96",
+    "typ": "dm",
+    "date": "25/12/2003",
+    "size": "7 x 9",
+    "mdata": "0709183900h14xxMWhWg7MMWdWhMNPgWh2NWhE0Wh2NWhNPdWhMMWdE0HL3hE0NE0HL3hE0WdMMWdNE0WhNC1NE0WhNWdMMWdE0HL3bWhE0NE0HL3bWhE0Wd2MNPg2NE02NNPdMMWbWg7MWhMWbWd"
+  },
+  {
+    "auth": "sky tiger",
+    "mapn": "smally",
+    "used": "84",
+    "typ": "dm",
+    "date": "31/03/2004",
+    "size": "5 x 6",
+    "mdata": "0506293900h19xx2H2M2HMD3b2E0B2bMH2E0C1E0HMB2h2E0D3hM2H2M2H"
+  },
+  {
+    "auth": "nain tueur",
+    "mapn": "dark nain",
+    "used": "83",
+    "typ": "ra",
+    "date": "05/05/2004",
+    "size": "5 x 7",
+    "mdata": "0507223900h08xxM2HC42HMHE0D2dD1dD2bE0HC3ND1hC1D1bNC2HE0D2hD1gD2gE0HM2HC52HM"
+  },
+  {
+    "auth": "arnaud03",
+    "mapn": "durmaisbon",
+    "used": "83",
+    "typ": "ra",
+    "date": "10/01/2005",
+    "size": "8 x 8",
+    "mdata": "0808343900h03xxC1WgWhD1bWhWdHWdWhGdWhB3bWhB1gWhE1PdWhMWhWdHWhWgD1bWdE1PhC6WdHE3PgGgMWdNPhWgD1bE1D2dWhWgD1dWhD1dHMWdC2WgHGdWgWdWbD1hE0L2gWh2E0WbWhMWdB3dWgB1dHC5B2hB1gE2PdMWdNL3hWgGdE0L3hNPhD1dPh2D1dHWdNWgNPdNL2hHGdE2PdE2PgGgWdMWgWbC3WbD1dWbD1dL2hWbD1dWbD2bWdC4WbE1WbWd"
+  },
+  {
+    "auth": "robostrike",
+    "mapn": "arena",
+    "used": "80",
+    "typ": "dm",
+    "date": "31/12/2002",
+    "size": "9 x 11",
+    "mdata": "0911053900h29xx3MD2d3D1dD2b4MD2dD1dD3h3ND3dD1dD2b2MD1hHL3h5E0HL3hD1bMD2dD3hNE0NGdNE0ND3dD2bD1h2NE0GgC1GgE02ND1bD2hD3gNE0NGdNE0ND3bD2gMD1hHWb5E0HWbD1b2MD2hD1gD3g3ND3bD1gD2g4MD2h3D1gD2g3M"
+  },
+  {
+    "auth": "xrbot",
+    "mapn": "plusx5",
+    "used": "80",
+    "typ": "dm",
+    "date": "29/06/2005",
+    "size": "7 x 7",
+    "mdata": "0707223900h08xxHE0D2dD2bE04HD1hD2dD2bH2E0D2dD3hD1hD3dD1dD2bD2dD2hD1gC1D1dD2bD2gD2hD1gD3gD1bD3bD2g2E0HD2hD2gD1b4HE0D2hD2gE0H"
+  },
+  {
+    "auth": "pauleta",
+    "mapn": "paf paf",
+    "used": "66",
+    "typ": "ra",
+    "date": "10/01/2005",
+    "size": "5 x 7",
+    "mdata": "0507073900h05xxC2D2d3D1dD2bC3HD1hL3dHL3bWdE0L2dHL3bD1bL3g2HD1hE0L2hC1E0L2bD1b2HD1hL3dHL3hE0L2gWdHL3hD1bL3gHC5D2h3D1gD2gC4"
+  },
+  {
+    "auth": "raramses",
+    "mapn": "mini",
+    "used": "65",
+    "typ": "dm",
+    "date": "29/06/2005",
+    "size": "5 x 6",
+    "mdata": "0506343900h03xxE0B2dB2bD2dD2bPh2MD2hD2gD2hD2gE0D2dD1dD2bB3bB1gB3gD2hD1gD2gB1bB2dB3hC1HE0B3dWgB3hE0Wh"
+  },
+  {
+    "auth": "damess",
+    "mapn": "quarter",
+    "used": "63",
+    "typ": "ra",
+    "date": "29/06/2005",
+    "size": "6 x 6",
+    "mdata": "0606143900h24xx2E0B1bNB1bE02B1gB2gWdNL3dB1bE0NNL3bWhC2WdWhWbC1WdWbB3dB1dWdB1dB2bC3WgWdC4WbNL3bWhNE0B1bNL3dWgB2d2B1dE0B1bNB1h2E0"
+  },
+  {
+    "auth": "kill_modo",
+    "mapn": "dueliste",
+    "used": "59",
+    "typ": "dm",
+    "date": "29/06/2005",
+    "size": "6 x 6",
+    "mdata": "0606223900h08xx2M2E0Wh3MD2d2D1dD2bME0WgD1h2MD1bE0WdE0WgD1hMC1D1bE0WdMD2h2D1gD2g3M2E0Wb2M"
+  },
+  {
+    "auth": "bombvoyage",
+    "mapn": "sinfall",
+    "used": "55",
+    "typ": "dm",
+    "date": "29/06/2005",
+    "size": "7 x 7",
+    "mdata": "0707283900h06xxE0D2dD2bD2dD1dD2bE0D2dD3hD3dD3hHD3dD2bD1hH3E0D3bD2gD2hD3gE0C1E0D3dD2bD2dD3h3E0HD1bD2hD3gHD3bD3gD3bD2gE0D2hD1gD2gD2hD2gE0"
+  },
+  {
+    "auth": "mr yoda",
+    "mapn": "tapifurius",
+    "used": "55",
+    "typ": "ra",
+    "date": "29/06/2005",
+    "size": "7 x 10",
+    "mdata": "0710283900h06xxC12NE32B1b2NE5C22MNL1gM2B1bMNL1gMNL1gB3bWg2B1gMB1bPgH3B1gB3gWdB1bWgME44MNMB1hWdB3dWgB1dB2bMC32NPh2NB1hWdNMB1bL1g2MHNNL1dMB1hWdC4NPhB3dWb6B1dWbB3hWdWb"
+  },
+  {
+    "auth": "dark_boss",
+    "mapn": "bricedenic",
+    "used": "45",
+    "typ": "ra",
+    "date": "29/06/2005",
+    "size": "7 x 8",
+    "mdata": "0708193900h24xx7B1dB1bB1hC1HB1bPhNNPhC4B1bB1hHNL1gC5WdNWdC6L1dMB1bB1hMN2E1E0MB1bB1hMNE0NE1MB1bB1hC3L1gWd2NPbE0NC2WdB1bB1h7B1g"
+  },
+  {
+    "auth": "oceanie",
+    "mapn": "blue",
+    "used": "44",
+    "typ": "ra",
+    "date": "05/05/2004",
+    "size": "5 x 6",
+    "mdata": "0506183900h14xxM2NMNME0NC4E0NE0NC3HC2HC1E0NC6HC5E0MNE0MNM"
+  },
+  {
+    "auth": "Pbam",
+    "mapn": "pitit truc",
+    "used": "44",
+    "typ": "ra",
+    "date": "25/12/2003",
+    "size": "6 x 6",
+    "mdata": "0606013900h24xxC1MNNPhNC2NME0H2MNPgHB2dB2bE02NE0B2hB2gHNPd2MHE0MNC4NNPbNMC3"
+  },
+  {
+    "auth": "parker",
+    "mapn": "parker",
+    "used": "43",
+    "typ": "ra",
+    "date": "04/03/2004",
+    "size": "6 x 6",
+    "mdata": "0606173900h22xxC1MNNPbNC2NME0H2MNPgHB3bB3gE02NE0B3dB3hHNPd2MHE0MNC4NNPbNMC3"
+  },
+  {
+    "auth": "tarlouze",
+    "mapn": "bourrin",
+    "used": "38",
+    "typ": "ra",
+    "date": "29/06/2005",
+    "size": "6 x 6",
+    "mdata": "0606043900h06xx2HB1bGdB1bHB1gB1gWbB2gWbC1L3dWgB3dWbB1dGdGdL3bC2WbC4WgWhGdL3bGd2B1dB2bC3L3dWgWhB2dB1dHE4B1bGdWgB1hWg2HE2B1bGdB1hH"
+  },
+  {
+    "auth": "oceanie",
+    "mapn": "movies",
+    "used": "32",
+    "typ": "ra",
+    "date": "05/05/2004",
+    "size": "5 x 7",
+    "mdata": "0507053900h29xxC15NC22HME02HN3E0C53E02NHE0MNHC45NC3"
+  },
+  {
+    "auth": "lapin_hihi",
+    "mapn": "speed way2",
+    "used": "28",
+    "typ": "ra",
+    "date": "29/06/2005",
+    "size": "6 x 6",
+    "mdata": "0606183900h14xxH3E0C5WbHC6WdB2d2B1dWhB2bE0E0WdB1hC1E0B1bWdE0E0WdB1hE0C2B1bWd2E0B2h2B1gB2gC3WgHC4Wh2E0WhE0H"
+  },
+  {
+    "auth": "theo666",
+    "mapn": "funny",
+    "used": "25",
+    "typ": "ra",
+    "date": "29/06/2005",
+    "size": "5 x 7",
+    "mdata": "0507153900h21xxC2NL2b3NWhHC32HE0NE0HNL2g2NE0C1E02NNL2dHE0NE02HC5H3NWbNL2hC4"
+  }
+]
